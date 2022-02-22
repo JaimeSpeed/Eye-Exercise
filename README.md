@@ -19,3 +19,6 @@ Open the style.css file to make any future changes to the look of the html.
 ## Step 4: 
 Open the index.html file in a web browswer. 
 
+
+JaimeSpeed/Eye-Exercise is licensed under the
+MIT License
